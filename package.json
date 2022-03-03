@@ -1,0 +1,16 @@
+{
+  "name": "caffelytics",
+  "version": "1.0.0",
+  "description": "express web server for caffelytics, a caffeine tracking application.",
+  "main": "./app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Hugueley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "helmet": "^5.0.2",
+    "mongodb": "^4.3.1"
+  }
+}
